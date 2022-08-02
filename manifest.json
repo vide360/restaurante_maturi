@@ -37,8 +37,8 @@
   }
  ],
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "name": "Restaurante Maturi",
  "theme_color": "#FFFFFF",
- "display": "fullscreen",
  "start_url": "index.htm"
 }
